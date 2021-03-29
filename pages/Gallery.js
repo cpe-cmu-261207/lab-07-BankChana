@@ -20,6 +20,7 @@ const Gallery = () => {
                             <h1>Chanathip Songchanthuek</h1>
                             <h3>Faculty of Engineering</h3>
                             <h2>chanathip_song@cmu.ac.th</h2>
+                            <h3>(+66) -956-781116</h3>
                             </td>
                             <th>
                                 <img width="200px" src="imgsrc/profile.jpg" alt="profile"/>
